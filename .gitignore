@@ -1,0 +1,4 @@
+node_modules
+dist
+bash.exe.stackdump
+package-lock.json
