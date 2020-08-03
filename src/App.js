@@ -1,6 +1,4 @@
 import React from "react";
-
-import "./assets/css/index.css";
 import { Card } from "./components/Card/Card";
 
 const initialState = [
